@@ -40,9 +40,20 @@
     h1 {
       font-size: 2rem;
       margin-bottom: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    .gradient-text {
       background: linear-gradient(135deg, #f43f5e, #fb923c, #facc15);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .emoji {
+      -webkit-text-fill-color: initial;
+      display: inline-block;
     }
     .qr-container {
       position: relative;
@@ -64,7 +75,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>你信不信QR掃我?😂</h1>
+    <h1><span class="gradient-text">你信不信QR掃我?</span><span class="emoji">😂</span></h1>
     
     <div class="qr-container">
       <img src="./Rick-Astley-QR-Prank.gif" alt="你信不信QR掃我?😂">
