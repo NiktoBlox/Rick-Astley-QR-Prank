@@ -4,6 +4,7 @@
 ### Rick Astley QR Code Prank | 經典瑞克搖動態 QR Code
 
 [![GitHub Stars](https://img.shields.io/github/stars/NiktoBlox/Rick-Astley-QR-Prank?style=social)](https://github.com/NiktoBlox/Rick-Astley-QR-Prank)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-2ea44f?style=flat-square&logo=github)](https://niktoblox.github.io/Rick-Astley-QR-Prank/)
 [![Prank](https://img.shields.io/badge/Prank-Rickroll-ff2a5f?style=flat-square)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
@@ -46,6 +47,14 @@
 ```html
 <img src="https://raw.githubusercontent.com/NiktoBlox/Rick-Astley-QR-Prank/main/Rick-Astley-QR-Prank.gif" alt="你信不信QR掃我?😂" width="400" />
 ```
+
+---
+
+## 🌐 線上展示 (Live Preview)
+
+👉 **點此立即體驗線上展示**：[https://niktoblox.github.io/Rick-Astley-QR-Prank/](https://niktoblox.github.io/Rick-Astley-QR-Prank/)
+
+支援全螢幕展示與手機最佳化，隨時隨地開啟釣魚！🎣
 
 ---
 
